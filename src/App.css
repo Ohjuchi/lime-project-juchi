@@ -1,0 +1,34 @@
+body {
+}
+
+.LoginArea {
+  margin: 0 auto;
+
+  width: 350px;
+  height: 400px;
+}
+
+.LoginArea .Title {
+  background-color: black;
+  width: 100pw;
+  color: white;
+  text-align: center;
+}
+
+.LoginArea .Child {
+  outline: solid 1px black;
+
+  padding: 20px;
+}
+
+.LoginArea input {
+  width: 200px;
+  height: 25px;
+}
+
+.LoginArea .ButtonArea {
+  padding: 20px;
+}
+
+.LoginArea .ButtonArea button {
+}
